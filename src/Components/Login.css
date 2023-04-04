@@ -1,0 +1,20 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+  font-family: inherit;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form>h1 {
+  font-size: 35px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  letter-spacing: -1px;
+}
